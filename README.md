@@ -1,2 +1,2 @@
-# Sharif_RL_Course
-HW3 - MCTS
+# MCTS
+Sharif_RL_Course - HW3 - MCTS
